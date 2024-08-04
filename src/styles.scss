@@ -1,5 +1,5 @@
-/* styles.css */
-@import "../node_modules/@angular/material/prebuilt-themes/azure-blue.css"; /* Default theme */
+
+@import "../node_modules/@angular/material/prebuilt-themes/azure-blue.css";
 
 .client-a-theme {
   --header-color: blue;
@@ -24,5 +24,5 @@
 .container {
   background-color: var(--background-color);
   min-height: 100vh;
-  padding: 20px;
+  padding: 80px;
 }
